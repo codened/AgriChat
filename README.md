@@ -4,7 +4,7 @@ Hi there, 👋  This is a powerful AgriChat bot designed to help you ask queries
 
 ## How to run?
 1. Download and save the llama2 model in the project folder[ ](https://huggingface.co/TheBloke/Llama...)(6.6GB)
-2. Download "knowledgebase.pdf" and save it in "/data" folder. Link for knowledgebase https://drive.google.com/drive/folders/1YZf0bZScN5GOEjzRIsDDSoMDIf6AayrP?usp=sharing
+2. Download "knowledgebase.pdf" and save it in the "/data" folder. Link for knowledgebase https://drive.google.com/drive/folders/1YZf0bZScN5GOEjzRIsDDSoMDIf6AayrP?usp=sharing
 3. install all necessary packages
 4. conda activate langchain
 5. python ingest.py 
